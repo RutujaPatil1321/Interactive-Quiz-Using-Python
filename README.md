@@ -1,6 +1,6 @@
 # Interactive-Quiz-Using-Python
 
-Starting Phase Of Quiz
+## Starting Phase Of Quiz
 
 ![image](https://user-images.githubusercontent.com/111111449/206851160-e3663a4a-1f45-4802-a2ac-38b4a9c79737.png)
 
